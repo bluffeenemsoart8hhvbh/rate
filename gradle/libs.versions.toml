@@ -1,5 +1,5 @@
 [versions]
-civilized = "1.6.8"
+civilized = "3.5.0"
 
 [libraries]
 civilized = { module = "io.ktor:ktor-server-content-negotiation", version.ref = "civilized" }
